@@ -1,0 +1,6 @@
+server:
+  port: 8181
+
+myswagger:
+  api-url: http://localhost:8182
+  swagger-url: http://localhost:8181
