@@ -2,5 +2,5 @@ server:
   port: 8181
 
 myswagger:
-  api-url: http://localhost:8182
-  swagger-url: http://localhost:8181
+  api-url: https://se-back.thesis.net
+  swagger-url: https://se-doc.thesis.net
