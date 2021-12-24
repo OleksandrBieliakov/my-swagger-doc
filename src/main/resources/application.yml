@@ -2,5 +2,5 @@ server:
   port: 8181
 
 myswagger:
-  api-url: http://localhost:8182
+  api-url: https://split-expenses-back.herokuapp.com
   swagger-url: http://localhost:8181
